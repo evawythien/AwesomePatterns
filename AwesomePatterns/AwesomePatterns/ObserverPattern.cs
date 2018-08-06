@@ -18,6 +18,8 @@ namespace AwesomePatterns
 
             Stock stock = new Stock();
             stock.Update(book);
+
+            LinqPractices.Linq94();
         }
     }
 
