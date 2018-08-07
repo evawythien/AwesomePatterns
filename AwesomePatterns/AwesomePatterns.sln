@@ -14,11 +14,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwaggerWebAPITest", "Swagge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIExample.Site", "WebAPIExample\WebAPIExample.Site.csproj", "{D843929F-00D5-4EC1-A2B8-34548EC8AD16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIExample.Domain", "WebAPIExample.Domain\WebAPIExample.Domain.csproj", "{180C0CEB-C4DE-4658-8E13-F7538EDADF15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIExample.Domain", "WebAPIExample.Domain\WebAPIExample.Domain.csproj", "{180C0CEB-C4DE-4658-8E13-F7538EDADF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIExample.Application", "WebAPIExample.Application\WebAPIExample.Application.csproj", "{C918BF37-9799-4E79-875C-9F79D8F96133}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIExample.Application", "WebAPIExample.Application\WebAPIExample.Application.csproj", "{C918BF37-9799-4E79-875C-9F79D8F96133}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIExample.Infrastructure", "WebAPIExample.Infrastructure\WebAPIExample.Infrastructure.csproj", "{A08CB4F5-8D17-42D1-8979-9EC88D8C8E1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIExample.Infrastructure", "WebAPIExample.Infrastructure\WebAPIExample.Infrastructure.csproj", "{A08CB4F5-8D17-42D1-8979-9EC88D8C8E1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

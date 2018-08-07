@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using MediatR;
 using Autofac;
 using Autofac.Core;
+using System.Reflection;
 
 namespace WebAPIExample
 {
